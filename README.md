@@ -31,4 +31,4 @@ You can use the project and take data from “log.txt” file and extract or sav
 
 ## Credits
 + Dhananjai Murali – Tkinker interface, File manipulation, dlib, Global variable declaration, open cv,Documentation, File Relocation, CSV file manipulation,GitHub uplaods.
-+ Krishnedhu S- Dlib, CSV file manipulation, Video demo, debugging, testing, Documentation, video demo, File manipulation.
++ Krishnedu S- Dlib, CSV file manipulation, Video demo, debugging, testing, Documentation,File manipulation.
