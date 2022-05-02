@@ -30,5 +30,5 @@ First you need to install all python libraries to install follow the steps below
 You can use the project and take data from “log.txt” file and extract or save data for your projects
 
 ## Credits
-+ Dhananjai Murali – Tkinker interface, File manipulation, dlib, Global variable declaration, open cv,Documentation, File Relocation, CSV file manipulation,GitHub uplaodas.
-+ Krishnedhu S- Dlib, CSV file manipulation, Video demo
++ Dhananjai Murali – Tkinker interface, File manipulation, dlib, Global variable declaration, open cv,Documentation, File Relocation, CSV file manipulation,GitHub uplaods.
++ Krishnedhu S- Dlib, CSV file manipulation, Video demo, debugging, testing, Documentation, video demo.
