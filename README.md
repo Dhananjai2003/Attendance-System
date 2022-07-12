@@ -18,13 +18,13 @@ This project con only detect faces up to only a few feet far.	But we believe tha
 ## Guide to install and run:
 First you need to install all python libraries to install follow the steps below:
 ### To install OpenCV
-+ type “pip install OpenCV-python” in your terminal
++ type ```pip install OpenCV-python``` in your terminal
 ### to install Tkinker
-+ type “pip install Tkinker” in your terminal
++ type ```pip install Tkinker``` in your terminal
 ### to install dlib:
-+ type “pip install dlib” in your terminal
++ type ```pip install dlib``` in your terminal
 ### to install pillow:
-+ type “pip install pillow” in your terminal
++ type ```pip install pillow``` in your terminal
 
 ## How to Use:
 You can use the project and take data from “log.txt” file and extract or save data for your projects
