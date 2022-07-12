@@ -427,7 +427,8 @@ def enter_new_page():#to entry new window
 
 root = Tk()
 root.title('Attendence System')
-
+icon_photo=PhotoImage(file = "icon.png")
+root.iconphoto(False, icon_photo)
 
 #home page code.
 gender_var=StringVar()#this for gender
